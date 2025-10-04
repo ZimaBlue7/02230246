@@ -1,14 +1,14 @@
 {
 	"name": "ZimaBlue",
 	"colors": {
-		"editor.background": "#0c0e0e",
+		"editor.background": "#0f1111",
   "editor.foreground": "#ffffff",
 
-  "sideBar.background": "#0c0e0e",
-  "activityBar.background": "#0c0e0e",
+  "sideBar.background": "#161616",
+  "activityBar.background": "#161616",
   "titleBar.activeBackground": "#0c0e0e",
 
-  "activityBarBadge.background": "#2278e9",
+  "activityBarBadge.background": "#0c6ff1",
   "sideBarTitle.foreground": "#bbbbbb",
   "tab.activeBackground": "#0c0e0e",
   "tab.inactiveBackground": "#0c0e0e",
@@ -17,11 +17,11 @@
   "editorGroupHeader.tabsBackground": "#0c0e0e",
   "editorGroupHeader.noTabsBackground": "#0c0e0e",
   "editorGroup.border": "#0c0e0e",
-  "sideBarSectionHeader.background": "#0c0e0e",
+  "sideBarSectionHeader.background": "#161616",
   "sideBarSectionHeader.foreground": "#ffffff",
-  "sideBarSectionHeader.border": "#4d2ace",
-  "focusBorder": "#4d2ace",
-  "list.focusOutline": "#4d2ace"
+  "sideBarSectionHeader.border": "#29166d",
+  "focusBorder": "#331b86",
+  "list.focusOutline": "#29166d"
 	},
 	"tokenColors": [
 		{
@@ -379,7 +379,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#848bf0"
 			}
 		},
 		{
