@@ -1,0 +1,21 @@
+{
+  "name": "02230246",
+  "displayName": "ZimaTheme",
+  "description": "My own theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ZimaBlue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ZimaBlue-color-theme.json"
+      }
+    ]
+  }
+}
