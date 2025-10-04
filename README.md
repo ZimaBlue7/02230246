@@ -1,8 +1,7 @@
-# 02230246 README
+# Zima's Theme README
 
 ## Working with Markdown
-
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Custom theme, based in black, more features in the future
 
 * Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
 * Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
@@ -13,4 +12,3 @@ You can author your README using Visual Studio Code. Here are some useful editor
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-**Enjoy!**
