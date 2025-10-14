@@ -8,7 +8,9 @@
   "activityBar.background": "#161616",
   "titleBar.activeBackground": "#0c0e0e",
 
-  "activityBarBadge.background": "#0c6ff1",
+  "activityBarBadge.background": "#1576f5",
+  "activityBarBadge.foreground": "#000000",
+  "activityBar.activeBackground": "#1576f5",
   "sideBarTitle.foreground": "#bbbbbb",
   "tab.activeBackground": "#0c0e0e",
   "tab.inactiveBackground": "#0c0e0e",
