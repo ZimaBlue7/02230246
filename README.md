@@ -1,5 +1,8 @@
 # Zima's Theme README
 
+* Para empaquetar el tema se tiene que usar este comando, con el empaquetado puedes intalar el tema de manera local
+vsce package
+
 ## Working with Markdown
 Custom theme, based in black, more features in the future
 
