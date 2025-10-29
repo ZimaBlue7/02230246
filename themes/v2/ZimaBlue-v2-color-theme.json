@@ -1,72 +1,29 @@
 {
-	"name": "ZimaBlue",
+	"name": "ZimaBlue v2",
 	"colors": {
-		"editor.background": "#0c0c0c", // Fondo del editor
-  "editor.foreground": "#ffffff", // Color del texto del editor
+		"editor.background": "#0f1111",
+  "editor.foreground": "#ffffff",
 
-  "sideBar.background": "#0c0c0c", // Fondo de la barra lateral
-  "activityBar.background": "#0c0c0c", // Fondo de la barra de actividad
+  "sideBar.background": "#161616",
+  "activityBar.background": "#161616",
+  "titleBar.activeBackground": "#0c0e0e",
 
-  "activityBarBadge.background": "#036cf5", // Color de fondo del badge en la barra de actividad
-  "activityBarBadge.foreground": "#ffffff", // Color del texto del badge en la barra de actividad
-  "activityBar.activeBackground": "#1576f5", // Fondo del ícono activo en la barra de actividad
-  "statusBar.background": "#036cf5",           // Color de fondo de la barra de estado
-"statusBar.foreground": "#ffffff",           // Color del texto
-"statusBar.border": "#1576f5",               // Borde superior
-"statusBar.debuggingBackground": "#ff754b",  // Cuando estás en modo debug
-"statusBar.debuggingForeground": "#FFFFFF",  // Texto en modo debug
-"statusBar.noFolderBackground": "#8f29a8",   // Sin carpeta abierta
+  "activityBarBadge.background": "#1576f5",
+  "activityBarBadge.foreground": "#000000",
+  "activityBar.activeBackground": "#1576f5",
   "sideBarTitle.foreground": "#bbbbbb",
-  "tab.activeBackground": "#0c0e0e", // Fondo de la pestaña activa
-  "tab.inactiveBackground": "#0c0e0e", // Fondo de las pestañas inactivas
-  "tab.border": "#0c0c0c", // Borde de las pestañas
-  "tab.activeBorderTop": "#1576f5",
-  "editorGroupHeader.tabsBackground": "#0c0e0e", // Fondo del encabezado de grupo de editores
-  "editorGroupHeader.noTabsBackground": "#0c0e0e", // Fondo del encabezado de grupo de editores sin pestañas
-  "editorGroup.border": "#0c0e0e", // Borde del grupo de editores
-  "sideBarSectionHeader.background": "#0c0c0c", // Fondo del encabezado de sección de la barra lateral
+  "tab.activeBackground": "#0c0e0e",
+  "tab.inactiveBackground": "#0c0e0e",
+  "tab.border": "#0c0e0e",
+  "tab.activeBorderTop": "#4d2ace",
+  "editorGroupHeader.tabsBackground": "#0c0e0e",
+  "editorGroupHeader.noTabsBackground": "#0c0e0e",
+  "editorGroup.border": "#0c0e0e",
+  "sideBarSectionHeader.background": "#161616",
   "sideBarSectionHeader.foreground": "#ffffff",
-  "sideBarSectionHeader.border": "#1576f5",
-  "focusBorder": "#1576f5",
-  "list.focusOutline": "#1576f5",
-
-  // Copilot Colors
-
-  "input.background": "#0c0c0c",              // Fondo del campo de entrada
-"input.foreground": "#cccccc",              // Texto del input
-"input.border": "#161616",                  // Borde del input
-"input.placeholderForeground": "#717171",   // Texto placeholder (gris)
-"inputOption.activeBackground": "#007acc",  // Opciones activas
-"inputOption.activeBorder": "#007acc",      // Borde de opciones activas
-
-"panelTitle.activeBorder": "#18cc00",       // Borde del título activo
-"panelTitle.activeForeground": "#e7e7e7",   // Texto del título activo
-"panelTitle.inactiveForeground": "#9d9d9d", // Texto del título inactivo
-"titleBar.activeBackground": "#0c0e0e",     // Fondo de la barra de título activa
-"titleBar.activeForeground": "#cccccc",     // Texto de la barra de título
-"titleBar.inactiveBackground": "#0c0c0c",   // Fondo de la barra de título inactiva
-"titleBar.inactiveForeground": "#9d9d9d",   // Texto inactivo
-"titleBar.border": "#0c0c0c",               // Borde inferior
-
-// Terminal Colors
-
-"panel.background": "#0c0c0c",              // Fondo del panel inferior
-"panel.border": "#0c0c0c",                  // Borde del panel inferior
-
-"terminal.background": "#0c0c0c",           // Fondo de la terminal
-"terminal.foreground": "#ffffff",           // Color del texto
-"terminal.border": "#1576f5",               // Borde de la terminal
-"terminal.selectionBackground": "#1576f540", // Selección de texto
-"terminal.inactiveSelectionBackground": "#1576f520", // Selección inactiva
-"terminalCursor.foreground": "#ffffff",     // Color del cursor
-"terminalCursor.background": "#0c0c0c",     // Fondo del cursor
-
-"terminal.tab.activeBorder": "#1576f5",     // Borde de la pestaña activa
-"terminalCommandDecoration.defaultBackground": "#848e91", // Decoración de comandos
-"terminalCommandDecoration.successBackground": "#C3E88D", // Comando exitoso
-"terminalCommandDecoration.errorBackground": "#ff303a",   // Comando con error
-
-
+  "sideBarSectionHeader.border": "#29166d",
+  "focusBorder": "#331b86",
+  "list.focusOutline": "#29166d"
 	},
 	"tokenColors": [
 		{

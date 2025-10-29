@@ -15,6 +15,11 @@
         "label": "ZimaBlue",
         "uiTheme": "vs-dark",
         "path": "./themes/ZimaBlue-color-theme.json"
+      },
+      {
+        "label": "ZimaBlue v2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/v2/ZimaBlue-v2-color-theme.json"
       }
     ]
   }
