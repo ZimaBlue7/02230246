@@ -9,7 +9,8 @@
 
   "activityBarBadge.background": "#036cf5", // Color de fondo del badge en la barra de actividad
   "activityBarBadge.foreground": "#ffffff", // Color del texto del badge en la barra de actividad
-  "activityBar.activeBackground": "#1576f5", // Fondo del ícono activo en la barra de actividad
+  "activityBar.activeBackground": "#01204b", // Fondo del ícono activo en la barra de actividad
+  "activityBar.inactiveForeground": "#3e88e9", // Color del ícono inactivo en la barra de actividad
   "statusBar.background": "#036cf5",           // Color de fondo de la barra de estado
 "statusBar.foreground": "#ffffff",           // Color del texto
 "statusBar.border": "#1576f5",               // Borde superior
@@ -42,9 +43,9 @@
 "panelTitle.activeBorder": "#18cc00",       // Borde del título activo
 "panelTitle.activeForeground": "#e7e7e7",   // Texto del título activo
 "panelTitle.inactiveForeground": "#9d9d9d", // Texto del título inactivo
-"titleBar.activeBackground": "#0c0e0e",     // Fondo de la barra de título activa
+"titleBar.activeBackground": "#0e55b3",     // Fondo de la barra de título activa
 "titleBar.activeForeground": "#cccccc",     // Texto de la barra de título
-"titleBar.inactiveBackground": "#0c0c0c",   // Fondo de la barra de título inactiva
+"titleBar.inactiveBackground": "#0d4691",   // Fondo de la barra de título inactiva
 "titleBar.inactiveForeground": "#9d9d9d",   // Texto inactivo
 "titleBar.border": "#0c0c0c",               // Borde inferior
 
